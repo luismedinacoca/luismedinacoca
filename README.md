@@ -25,7 +25,7 @@
 <br>
 
 <div align="center">
-## 🛠 &nbsp;Tech Stack
+ 🛠 &nbsp;Tech Stack
 <div>
   
 #### 🔧 Languages
