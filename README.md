@@ -13,7 +13,7 @@
 
 <p align="center">
   <em>
-    Hello, I am Luis Medina Coca <b>final year</b> undergraduate from <a href="[https://www4.frm.utn.edu.ar/]"> <b>Universidad Tecnológica Nacional</b>, Mendoza</a>. <br>
+    Hello, I am Luis Medina Coca <b>final year</b> undergraduate from <a href="https://www4.frm.utn.edu.ar/"> <b>Universidad Tecnológica Nacional</b>, Mendoza</a>. <br>
     <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Amaterur programmer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with <b>Frontend</b> and always looking to find patterns
   </em> 
